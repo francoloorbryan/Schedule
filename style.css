@@ -1,0 +1,15 @@
+h1{
+    justify-items: center;
+}
+td{
+    box-shadow:0px 0px 2px 0px;
+}
+.days{
+    background-color: orange;
+}
+#time{
+    background-color: rgba(7, 7, 165, 0.871);
+}
+div > tr > td{
+    background-color: burlywood;
+}
